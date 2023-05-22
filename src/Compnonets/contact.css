@@ -21,11 +21,7 @@
 }
 
 
-.bcg{
-    background-image: url(https://img.freepik.com/free-photo/purple-pink-watercolor-texture-background_1083-169.jpg?1&w=900&t=st=1684674203~exp=1684674803~hmac=1bfce7ed7f7f893861d6c1f6227f1544500de24ed7a945b12fefa70a40cf5716);
-    background-repeat: no-repeat;
-    background-size: cover;
-}
+
 
 @media only screen and (max-width: 800px) {
     .main{
